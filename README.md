@@ -55,7 +55,7 @@ VerbaTask runs a FastMCP server (`tools.py`) that exposes two MCP tools to the K
 - **`create_action_item`**: Called by the Action Item Extraction Agent. Creates a new action item in the `action_items` index.
 - **`update_action_item`**: Called by the Overdue Item Validator Agent. Updates the status of an existing action item.
 - **`search_meeting_messages`**: Called by the Action Item Extraction Agent and the Meeting Summary Agent. Fetches all transcript messages for a given meeting ID from the `meeting_messages` index. Defined directly in the Elasticsearch platform.
-- **`platform.core.search`**: Called by the Insights Agent. Answers natural language questions across all meetings using ES|QL.
+- **`platform.core.search`**: Elasticsearch native tool. Called by the Insights Agent. Answers natural language questions across all meetings using ES|QL.
 
 ### Agents
 
