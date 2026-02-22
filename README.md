@@ -37,7 +37,7 @@ Process a transcript -> agents run automatically -> dashboard updates in real ti
 
 ## Architecture
 
-Check out `verbatask_architecture.png` in the `docs/` folder.
+![VerbaTask Architecture](docs/verbatask_architecture.png)
 
 ### Indexes
 
@@ -283,3 +283,6 @@ The **Ask Insights** page sends natural language questions to the Insights Agent
 - [Update by query API — Elasticsearch Documentation](https://www.elastic.co/docs/reference/elasticsearch/rest-apis/update-by-query-api)
 - ChatGPT (OpenAI): Used to generate synthetic meeting transcripts
 - Claude (Anthropic): Used to generate additional synthetic transcripts and assist with development
+
+
+The PDF version of the project workflow and architecture is available in the `docs/` folder.
