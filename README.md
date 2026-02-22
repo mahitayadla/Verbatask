@@ -133,6 +133,7 @@ verbatask/
 |     |---- setup_indices.py           (Creates all ES indices on first run)
 |---- docs/
 |     |---- verbatask_architecture.png
+      |---- VerbaTask workflow.pdf
 |---- agents/                          (Agent instructions for Kibana setup)
 |---- tools/                           (Tool instructions for Kibana setup)
 |---- sample_data/                     (Synthetic transcripts for testing)
