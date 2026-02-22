@@ -1,0 +1,69 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:08.000
+Alice: We have a new engineer starting Monday. Let's make sure onboarding is smooth.
+
+2
+00:00:08.000 --> 00:00:16.000
+Bob: Do they have their laptop and access sorted?
+
+3
+00:00:16.000 --> 00:00:24.000
+Alice: Not yet. Frank can you coordinate with IT today?
+
+4
+00:00:24.000 --> 00:00:32.000
+Frank: I'll send IT the request right after this.
+
+5
+00:00:32.000 --> 00:00:40.000
+Carol: Someone should set up their dev environment in advance.
+
+6
+00:00:40.000 --> 00:00:48.000
+Henry: I can do that. I'll have it ready by Friday.
+
+7
+00:00:48.000 --> 00:00:56.000
+Alice: Great. We also need to assign them a buddy.
+
+8
+00:00:56.000 --> 00:01:04.000
+Emma: I'm happy to be their buddy.
+
+9
+00:01:04.000 --> 00:01:12.000
+Alice: Perfect Emma. Can you reach out to them before Monday to introduce yourself?
+
+10
+00:01:12.000 --> 00:01:20.000
+Emma: I'll send them a welcome message today.
+
+11
+00:01:20.000 --> 00:01:28.000
+Bob: Is the onboarding doc up to date?
+
+12
+00:01:28.000 --> 00:01:36.000
+Carol: It's a bit outdated. I'll update it this week.
+
+13
+00:01:36.000 --> 00:01:44.000
+Alice: Thanks Carol. Also can someone schedule a team lunch for next week?
+
+14
+00:01:44.000 --> 00:01:52.000
+Grace: I'll organize something for Wednesday.
+
+15
+00:01:52.000 --> 00:02:00.000
+Alice: And we need to schedule their first one-on-ones with leads.
+
+16
+00:02:00.000 --> 00:02:08.000
+Frank: I'll add those to the calendar once I hear back from IT.
+
+17
+00:02:08.000 --> 00:02:16.000
+Alice: Sounds good. Let's make them feel welcome from day one.

@@ -1,0 +1,85 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:08.000
+Grace: Let's run through the QBR numbers before we present to the board.
+
+2
+00:00:08.000 --> 00:00:16.000
+Frank: Revenue is up twelve percent quarter over quarter.
+
+3
+00:00:16.000 --> 00:00:24.000
+Grace: Good. What about churn?
+
+4
+00:00:24.000 --> 00:00:32.000
+Frank: Slightly up. Three percent versus two last quarter.
+
+5
+00:00:32.000 --> 00:00:40.000
+Grace: That needs attention. Carol can you dig into the churn data and identify the top reasons?
+
+6
+00:00:40.000 --> 00:00:48.000
+Carol: I'll have an analysis ready by Thursday.
+
+7
+00:00:48.000 --> 00:00:56.000
+Henry: Engineering velocity was down this quarter due to the infrastructure work.
+
+8
+00:00:56.000 --> 00:01:04.000
+Grace: Henry can you put together a slide explaining that for the board?
+
+9
+00:01:04.000 --> 00:01:12.000
+Henry: I'll have it ready by tomorrow.
+
+10
+00:01:12.000 --> 00:01:20.000
+Bob: NPS scores dropped slightly too. From 42 to 38.
+
+11
+00:01:20.000 --> 00:01:28.000
+Grace: That's concerning. Bob what's driving it?
+
+12
+00:01:28.000 --> 00:01:36.000
+Bob: Mostly complaints about response times and the new UI changes.
+
+13
+00:01:36.000 --> 00:01:44.000
+Grace: We need a plan to address that. Bob can you draft a short term improvement plan?
+
+14
+00:01:44.000 --> 00:01:52.000
+Bob: I'll put something together by end of week.
+
+15
+00:01:52.000 --> 00:02:00.000
+Emma: The support team is also understaffed. That's contributing to response time issues.
+
+16
+00:02:00.000 --> 00:02:08.000
+Grace: Emma can you work with HR to open two support roles?
+
+17
+00:02:08.000 --> 00:02:16.000
+Emma: I'll send the job descriptions to HR today.
+
+18
+00:02:16.000 --> 00:02:24.000
+David: Should we include a competitive analysis in the QBR deck?
+
+19
+00:02:24.000 --> 00:02:32.000
+Grace: Good idea. David can you pull that together?
+
+20
+00:02:32.000 --> 00:02:40.000
+David: I'll have two or three slides ready by Wednesday.
+
+21
+00:02:40.000 --> 00:02:48.000
+Grace: Perfect. Let's do a final review of the full deck Friday morning.

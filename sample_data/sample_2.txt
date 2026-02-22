@@ -1,0 +1,77 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:08.000
+Grace: We have a serious situation. One of our enterprise clients is threatening to leave.
+
+2
+00:00:08.000 --> 00:00:16.000
+Frank: Which client?
+
+3
+00:00:16.000 --> 00:00:24.000
+Grace: Meridian Group. They've had three outages in the past month.
+
+4
+00:00:24.000 --> 00:00:32.000
+David: Two of those were on our end. The third was their network.
+
+5
+00:00:32.000 --> 00:00:40.000
+Grace: They don't see it that way. Frank can you call their account lead today?
+
+6
+00:00:40.000 --> 00:00:48.000
+Frank: I'll reach out this afternoon.
+
+7
+00:00:48.000 --> 00:00:56.000
+David: I should put together a root cause analysis for the two outages we caused.
+
+8
+00:00:56.000 --> 00:01:04.000
+Grace: How long do you need?
+
+9
+00:01:04.000 --> 00:01:12.000
+David: I can have a draft by Thursday.
+
+10
+00:01:12.000 --> 00:01:20.000
+Emma: Should we offer them a service credit?
+
+11
+00:01:20.000 --> 00:01:28.000
+Grace: I think so. I'll get sign-off from finance by end of day.
+
+12
+00:01:28.000 --> 00:01:36.000
+Bob: We should also fix the underlying issue so it doesn't happen again.
+
+13
+00:01:36.000 --> 00:01:44.000
+David: Agreed. I'll open an infra ticket right after this call.
+
+14
+00:01:44.000 --> 00:01:52.000
+Frank: Once David has the RCA ready should we set up a call with Meridian?
+
+15
+00:01:52.000 --> 00:02:00.000
+Grace: Yes Frank can you coordinate that with their team next week?
+
+16
+00:02:00.000 --> 00:02:08.000
+Frank: I'll get something scheduled.
+
+17
+00:02:08.000 --> 00:02:16.000
+Grace: Carol can you update the incident log with everything we discussed?
+
+18
+00:02:16.000 --> 00:02:24.000
+Carol: I'll have it updated before end of day.
+
+19
+00:02:24.000 --> 00:02:31.000
+Grace: Thanks everyone. Let's make sure we don't lose this account.

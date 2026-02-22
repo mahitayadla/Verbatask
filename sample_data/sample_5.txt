@@ -1,0 +1,73 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:08.000
+Alice: Performance review cycle starts next week. Let's make sure we're prepared.
+
+2
+00:00:08.000 --> 00:00:16.000
+Frank: Do we have the review templates ready?
+
+3
+00:00:16.000 --> 00:00:24.000
+Alice: Not yet. Emma can you finalize those today?
+
+4
+00:00:24.000 --> 00:00:32.000
+Emma: I'll get them done this afternoon.
+
+5
+00:00:32.000 --> 00:00:40.000
+Frank: We should also remind the team about the self-assessment deadline.
+
+6
+00:00:40.000 --> 00:00:48.000
+Alice: Good point. Frank can you send that reminder out?
+
+7
+00:00:48.000 --> 00:00:56.000
+Frank: I'll send it right after this meeting.
+
+8
+00:00:56.000 --> 00:01:04.000
+Bob: What's the deadline for managers to submit their reviews?
+
+9
+00:01:04.000 --> 00:01:12.000
+Alice: Two weeks from today. I'll send the official timeline to everyone.
+
+10
+00:01:12.000 --> 00:01:20.000
+Carol: Should we do calibration sessions again this cycle?
+
+11
+00:01:20.000 --> 00:01:28.000
+Alice: Yes. Grace can you schedule those for week three?
+
+12
+00:01:28.000 --> 00:01:36.000
+Grace: I'll get invites out by end of week.
+
+13
+00:01:36.000 --> 00:01:44.000
+Bob: Last cycle some managers struggled with the rating system. Should we do a training?
+
+14
+00:01:44.000 --> 00:01:52.000
+Alice: That's a good idea. Emma can you put together a short guide?
+
+15
+00:01:52.000 --> 00:02:00.000
+Emma: Sure I'll have a one-pager ready by Thursday.
+
+16
+00:02:00.000 --> 00:02:08.000
+Frank: We should also check if the HR system has been updated for this cycle.
+
+17
+00:02:08.000 --> 00:02:16.000
+Carol: I'll confirm that with HR today.
+
+18
+00:02:16.000 --> 00:02:24.000
+Alice: Perfect. Let's touch base again Friday to make sure everything is on track.

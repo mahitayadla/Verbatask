@@ -1,0 +1,77 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:08.000
+Grace: We need to finalize the Q3 budget proposal by end of month.
+
+2
+00:00:08.000 --> 00:00:16.000
+David: Engineering has some new infrastructure costs coming in.
+
+3
+00:00:16.000 --> 00:00:24.000
+Grace: How much are we talking?
+
+4
+00:00:24.000 --> 00:00:32.000
+David: Rough estimate around forty thousand. I need to confirm with vendors.
+
+5
+00:00:32.000 --> 00:00:40.000
+Grace: David can you get those vendor quotes by Wednesday?
+
+6
+00:00:40.000 --> 00:00:48.000
+David: I'll reach out today.
+
+7
+00:00:48.000 --> 00:00:56.000
+Frank: Marketing also needs budget for the conference in September.
+
+8
+00:00:56.000 --> 00:01:04.000
+Grace: Frank put together a breakdown of those costs please.
+
+9
+00:01:04.000 --> 00:01:12.000
+Frank: I'll have it ready by Thursday.
+
+10
+00:01:12.000 --> 00:01:20.000
+Carol: We should also account for the new hires planned for Q3.
+
+11
+00:01:20.000 --> 00:01:28.000
+Grace: Good point. Carol can you pull the headcount plan from HR?
+
+12
+00:01:28.000 --> 00:01:36.000
+Carol: I'll get that today.
+
+13
+00:01:36.000 --> 00:01:44.000
+Henry: Should we build in a contingency buffer?
+
+14
+00:01:44.000 --> 00:01:52.000
+Grace: Yes, standard ten percent. Henry can you add that to the budget template?
+
+15
+00:01:52.000 --> 00:02:00.000
+Henry: I'll update the template tonight.
+
+16
+00:02:00.000 --> 00:02:08.000
+Bob: Who's presenting the proposal to the board?
+
+17
+00:02:08.000 --> 00:02:16.000
+Grace: I'll present it. But I'll need everyone's numbers by Friday to compile everything.
+
+18
+00:02:16.000 --> 00:02:24.000
+David: Understood. I'll make sure mine are in by then.
+
+19
+00:02:24.000 --> 00:02:32.000
+Grace: Thanks. Let's aim to have a full draft ready by Monday.

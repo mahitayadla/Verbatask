@@ -1,0 +1,81 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:08.000
+Sarah: Okay let's get started. We need to finalize the product launch for next month.
+
+2
+00:00:08.000 --> 00:00:16.000
+James: The landing page is still not ready. Design has been delayed.
+
+3
+00:00:16.000 --> 00:00:24.000
+Sarah: Lisa can you get the landing page done by Thursday?
+
+4
+00:00:24.000 --> 00:00:32.000
+Lisa: Yes I'll have it ready by Thursday morning.
+
+5
+00:00:32.000 --> 00:00:40.000
+James: We also need the pricing finalized. That's blocking marketing.
+
+6
+00:00:40.000 --> 00:00:48.000
+Sarah: Mark can you send the final pricing sheet to the team by tomorrow?
+
+7
+00:00:48.000 --> 00:00:56.000
+Mark: I'll have it done by end of day today.
+
+8
+00:00:56.000 --> 00:01:04.000
+James: The API integration is still failing in staging. It's a blocker.
+
+9
+00:01:04.000 --> 00:01:12.000
+Sarah: That's critical. James you need to fix that ASAP.
+
+10
+00:01:12.000 --> 00:01:20.000
+James: I'll get on it immediately after this call.
+
+11
+00:01:20.000 --> 00:01:28.000
+Lisa: Should we set up a QA round once the landing page is done?
+
+12
+00:01:28.000 --> 00:01:36.000
+Sarah: Yes. Tom can you coordinate QA testing for next Monday?
+
+13
+00:01:36.000 --> 00:01:44.000
+Tom: Sure I'll set that up and send calendar invites to everyone.
+
+14
+00:01:44.000 --> 00:01:52.000
+Mark: We should also brief the sales team before launch.
+
+15
+00:01:52.000 --> 00:02:00.000
+Sarah: Good point. Mark can you handle that briefing by next Wednesday?
+
+16
+00:02:00.000 --> 00:02:08.000
+Mark: I'll schedule it for Tuesday so they have time to prepare.
+
+17
+00:02:08.000 --> 00:02:16.000
+Tom: Do we have the legal disclaimer copy ready for the site?
+
+18
+00:02:16.000 --> 00:02:24.000
+Sarah: Not yet. Lisa can you follow up with legal and get that whenever possible?
+
+19
+00:02:24.000 --> 00:02:31.000
+Lisa: I'll reach out to them today.
+
+20
+00:02:31.000 --> 00:02:39.000
+Sarah: Great. Let's regroup Friday to check on everything.

@@ -1,0 +1,77 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:08.000
+Henry: We detected suspicious login attempts on several accounts last night.
+
+2
+00:00:08.000 --> 00:00:16.000
+Alice: How many accounts are we talking about?
+
+3
+00:00:16.000 --> 00:00:24.000
+Henry: About fifteen. Two look fully compromised.
+
+4
+00:00:24.000 --> 00:00:32.000
+Bob: Do we know how they got in?
+
+5
+00:00:32.000 --> 00:00:40.000
+Henry: Credential stuffing. Old passwords from a third party breach.
+
+6
+00:00:40.000 --> 00:00:48.000
+Alice: We need to force resets on those two accounts immediately.
+
+7
+00:00:48.000 --> 00:00:56.000
+Henry: Already done. But I think we should reset all accounts older than two years.
+
+8
+00:00:56.000 --> 00:01:04.000
+Bob: That's a large user base. Communication needs to be careful.
+
+9
+00:01:04.000 --> 00:01:12.000
+Emma: I'll draft the notification email today and send it to you for review Henry.
+
+10
+00:01:12.000 --> 00:01:20.000
+Henry: Thanks. We should also enforce MFA across the board.
+
+11
+00:01:20.000 --> 00:01:28.000
+Bob: I can implement that on the backend. Two days minimum.
+
+12
+00:01:28.000 --> 00:01:36.000
+Alice: Bob get started on that today please.
+
+13
+00:01:36.000 --> 00:01:44.000
+Frank: Legal needs to be informed. I'll brief them this afternoon.
+
+14
+00:01:44.000 --> 00:01:52.000
+Henry: Good. Bob can you also go through the access logs and flag anything else suspicious?
+
+15
+00:01:52.000 --> 00:02:00.000
+Bob: I'll go through them today and send you a summary by tonight.
+
+16
+00:02:00.000 --> 00:02:08.000
+Alice: Should we bring in an external security firm?
+
+17
+00:02:08.000 --> 00:02:16.000
+Henry: Let's wait for Bob's audit first then decide.
+
+18
+00:02:16.000 --> 00:02:24.000
+Frank: I'll also check if we have any disclosure obligations given the breach.
+
+19
+00:02:24.000 --> 00:02:31.000
+Alice: Good thinking. Let's regroup tomorrow morning.

@@ -1,0 +1,77 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:08.000
+Alice: Let's get started. We need to finalize what's going into this sprint.
+
+2
+00:00:08.000 --> 00:00:16.000
+Bob: The authentication bug is still open from last sprint.
+
+3
+00:00:16.000 --> 00:00:24.000
+Alice: Bob can you close that out this week?
+
+4
+00:00:24.000 --> 00:00:31.000
+Bob: Yeah I'll have it done by Wednesday.
+
+5
+00:00:31.000 --> 00:00:39.000
+Carol: The data pipeline is also throwing errors in staging.
+
+6
+00:00:39.000 --> 00:00:47.000
+David: I saw that too. I can investigate after my current task wraps up.
+
+7
+00:00:47.000 --> 00:00:55.000
+Alice: When would that be?
+
+8
+00:00:55.000 --> 00:01:03.000
+David: Tomorrow afternoon at the latest.
+
+9
+00:01:03.000 --> 00:01:11.000
+Emma: Should we block the staging deploy until that's resolved?
+
+10
+00:01:11.000 --> 00:01:19.000
+Alice: Yes let's not deploy until David confirms it's clean.
+
+11
+00:01:19.000 --> 00:01:27.000
+Frank: What about the new dashboard feature? Design approved it last week.
+
+12
+00:01:27.000 --> 00:01:35.000
+Carol: I can start on that once the pipeline issue is sorted.
+
+13
+00:01:35.000 --> 00:01:43.000
+Alice: Frank can you share the design specs with Carol today?
+
+14
+00:01:43.000 --> 00:01:51.000
+Frank: I'll send them over right after this call.
+
+15
+00:01:51.000 --> 00:01:59.000
+Grace: We also need to update the API docs. They're outdated.
+
+16
+00:01:59.000 --> 00:02:07.000
+Henry: I can take that. Should have it done by Friday.
+
+17
+00:02:07.000 --> 00:02:15.000
+Alice: Perfect. Emma can you make sure the test coverage report is ready for Thursday's review?
+
+18
+00:02:15.000 --> 00:02:23.000
+Emma: Sure, I'll pull that together by Wednesday evening.
+
+19
+00:02:23.000 --> 00:02:31.000
+Alice: Great. Let's sync again Thursday morning.
