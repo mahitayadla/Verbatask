@@ -52,10 +52,10 @@ Check out `verbatask_architecture.png` in the `docs/` folder.
 
 VerbaTask runs a FastMCP server (`tools.py`) that exposes two MCP tools to the Kibana agents. The server runs locally and is exposed to Kibana via ngrok.
 
-- **`create_action_item`** — Called by the Action Item Extraction Agent. Creates a new action item in the `action_items` index.
-- **`update_action_item`** — Called by the Overdue Item Validator Agent. Updates the status of an existing action item.
-- **`search_meeting_messages`** — Called by the Action Item Extraction Agent and the Meeting Summary Agent. Fetches all transcript messages for a given meeting ID from the `meeting_messages` index. Defined directly in the Elasticsearch platform.
-- **`platform.core.search`** — Called by the Insights Agent. Answers natural language questions across all meetings using ES|QL.
+- **`create_action_item`**: Called by the Action Item Extraction Agent. Creates a new action item in the `action_items` index.
+- **`update_action_item`**: Called by the Overdue Item Validator Agent. Updates the status of an existing action item.
+- **`search_meeting_messages`**: Called by the Action Item Extraction Agent and the Meeting Summary Agent. Fetches all transcript messages for a given meeting ID from the `meeting_messages` index. Defined directly in the Elasticsearch platform.
+- **`platform.core.search`**: Called by the Insights Agent. Answers natural language questions across all meetings using ES|QL.
 
 ### Agents
 
@@ -93,14 +93,14 @@ Answers natural language questions across all meetings using ES|QL and semantic 
 
 ## Dashboard Features
 
-- **Metrics** — Displays counts of Meetings, Open, Overdue, Completed, and Completion Rate
-- **Meeting selector** — Switch between meetings with a progress bar showing task completion
-- **Task list** — Displays every action item with owner, due date, risk, and status
-- **Date and Risk Level pickers** — Update due dates and risk levels directly from the dashboard, auto-saved to Elasticsearch
-- **Completion checkboxes** — Mark tasks done with strikethrough styling
-- **Re-validate Button** — Regenerates the validation report and updates overdue statuses
-- **Meeting Summary** — Collapsible summary from the Meeting Summary Agent
-- **Validation Report** — Collapsible report from the Overdue Item Validator Agent
+- **Metrics**: Displays counts of Meetings, Open, Overdue, Completed, and Completion Rate
+- **Meeting selector**: Switch between meetings with a progress bar showing task completion
+- **Task list**: Displays every action item with owner, due date, risk, and status
+- **Date and Risk Level pickers**: Update due dates and risk levels directly from the dashboard, auto-saved to Elasticsearch
+- **Completion checkboxes**: Mark tasks done with strikethrough styling
+- **Re-validate Button**: Regenerates the validation report and updates overdue statuses
+- **Meeting Summary**: Collapsible summary from the Meeting Summary Agent
+- **Validation Report**: Collapsible report from the Overdue Item Validator Agent
 
 ---
 
