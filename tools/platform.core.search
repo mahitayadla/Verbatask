@@ -1,0 +1,3 @@
+platform.core.search is Elasticsearch's native built-in search tool. 
+No setup required. It is already available in Elastic Agent Builder. 
+Only enable it in the required agents as mentioned in the agents/ folder.
