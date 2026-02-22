@@ -281,5 +281,5 @@ The **Ask Insights** page sends natural language questions to the Insights Agent
 - [Streamlit Documentation](https://docs.streamlit.io)
 - [ngrok Documentation](https://ngrok.com/docs)
 - [Update by query API — Elasticsearch Documentation](https://www.elastic.co/docs/reference/elasticsearch/rest-apis/update-by-query-api)
-- ChatGPT (OpenAI) — Used to generate synthetic meeting transcripts
-- Claude (Anthropic) — Used to generate additional synthetic transcripts and assist with development
+- ChatGPT (OpenAI): Used to generate synthetic meeting transcripts
+- Claude (Anthropic): Used to generate additional synthetic transcripts and assist with development
