@@ -1,8 +1,11 @@
 import requests
 import os
 from dotenv import load_dotenv
-from datetime import date
+from datetime import date, datetime
 from elasticsearch import Elasticsearch
+import pytz
+
+
 
 load_dotenv()
 
@@ -13,6 +16,9 @@ VALIDATION_AGENT_ID = os.getenv("VALIDATION_AGENT_ID")
 es = Elasticsearch(os.getenv("ELASTICSEARCH_URL"), api_key=os.getenv("ELASTICSEARCH_API"))
 
 def validate_action_items(meeting_id: str) -> dict:
+    
+    est = pytz.timezone("America/New_York")
+
     headers = {
         "Content-Type": "application/json",
         "Authorization": f"ApiKey {KIBANA_API_KEY}",
@@ -20,7 +26,7 @@ def validate_action_items(meeting_id: str) -> dict:
     }
     payload = {
         "agent_id": VALIDATION_AGENT_ID,
-        "input": f"Today's date is {date.today().isoformat()}. Validate action items for meeting_id: {meeting_id}. Only mark items as Overdue if their due date is strictly before today, not equal to today."
+        "input": f"Today's date is {datetime.now(est).strftime('%A, %Y-%m-%d')}. Validate action items for meeting_id: {meeting_id}. Only mark items as Overdue if their due date is strictly before today, not equal to today."
     }
 
     try:
