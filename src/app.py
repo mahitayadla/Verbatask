@@ -191,8 +191,25 @@ if page == "Dashboard":
         st.divider()
         if st.button("Re-validate Meeting", key="revalidate_btn"):
             today = date.today().isoformat()
+
+            es.update_by_query(
+                index="action_items",
+                refresh=True,
+                body={
+                    "script": {"source": "ctx._source.status = 'Open'"},
+                    "query": {
+                        "bool": {
+                            "must": [
+                                {"match": {"status": "Overdue"}},
+                                {"match": {"meeting_id": selected}}
+                            ]
+                        }
+                    }
+                }
+            )
             result = es.update_by_query(
                 index="action_items",
+                refresh=True,
                 body={
                     "script": {"source": "ctx._source.status = 'Overdue'"},
                     "query": {
@@ -204,6 +221,7 @@ if page == "Dashboard":
                 }
             )
             updated = result.get("updated", 0)
+
             with st.spinner("Re-running validation..."):
                 validation = validate_action_items(selected)
             if validation["success"]:
@@ -211,7 +229,6 @@ if page == "Dashboard":
                 st.rerun()
             else:
                 st.error(f"Validation failed: {validation['error']}")
-
         st.divider()
 
         intel_col1, intel_col2 = st.columns(2)
